@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## You would need to check the package.json file and install all the dependencies, or you use the command;
 
-### 'npm install'
+### `npm install`
 
 ## or 
-### 'yarn
+### `yarn`
 
 ## Available Scripts
 
