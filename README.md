@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## You would need to check the package.json file and install all the dependencies, or you use the command;
+
+### 'npm install'
+
+## or 
+### 'yarn
+
 ## Available Scripts
 
 In the project directory, you can run:
